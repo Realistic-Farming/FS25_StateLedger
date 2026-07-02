@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>TisonK</author>
+    <version>1.0.0.0</version>
+    <modName>FS25_StateLedger</modName>
+
+    <title>
+        <en><![CDATA[Realistic Farming - State Ledger]]></en>
+        <de><![CDATA[Realistic Farming - State Ledger]]></de>
+        <fr><![CDATA[Realistic Farming - State Ledger]]></fr>
+        <nl><![CDATA[Realistic Farming - State Ledger]]></nl>
+        <it><![CDATA[Realistic Farming - State Ledger]]></it>
+        <pl><![CDATA[Realistic Farming - State Ledger]]></pl>
+        <es><![CDATA[Realistic Farming - State Ledger]]></es>
+        <ea><![CDATA[Realistic Farming - State Ledger]]></ea>
+        <pt><![CDATA[Realistic Farming - State Ledger]]></pt>
+        <br><![CDATA[Realistic Farming - State Ledger]]></br>
+        <ru><![CDATA[Realistic Farming - State Ledger]]></ru>
+        <uk><![CDATA[Realistic Farming - State Ledger]]></uk>
+        <cz><![CDATA[Realistic Farming - State Ledger]]></cz>
+        <hu><![CDATA[Realistic Farming - State Ledger]]></hu>
+        <ro><![CDATA[Realistic Farming - State Ledger]]></ro>
+        <tr><![CDATA[Realistic Farming - State Ledger]]></tr>
+        <fi><![CDATA[Realistic Farming - State Ledger]]></fi>
+        <no><![CDATA[Realistic Farming - State Ledger]]></no>
+        <sv><![CDATA[Realistic Farming - State Ledger]]></sv>
+        <da><![CDATA[Realistic Farming - State Ledger]]></da>
+        <kr><![CDATA[Realistic Farming - State Ledger]]></kr>
+        <jp><![CDATA[Realistic Farming - State Ledger]]></jp>
+        <ct><![CDATA[Realistic Farming - State Ledger]]></ct>
+        <fc><![CDATA[Realistic Farming - State Ledger]]></fc>
+        <id><![CDATA[Realistic Farming - State Ledger]]></id>
+        <vi><![CDATA[Realistic Farming - State Ledger]]></vi>
+    </title>
+
+    <description>
+        <en><![CDATA[Required library for the Realistic Farming mod ecosystem. Collapses every companion mod's savegame data into one atomic write, so a crash or force-quit during saving can no longer corrupt or lose progression. No settings and nothing to configure. Install it and let it run.]]></en>
+        <de><![CDATA[Erforderliche Bibliothek für das Realistic Farming Mod-Ökosystem. Fasst die Speicherdaten aller Begleitmods in einen einzigen atomaren Schreibvorgang zusammen, damit ein Absturz beim Speichern den Fortschritt nicht mehr beschädigt oder verliert. Keine Einstellungen, nichts zu konfigurieren.]]></de>
+        <fr><![CDATA[Bibliothèque requise pour l'écosystème de mods Realistic Farming. Regroupe les données de sauvegarde de tous les mods compagnons en une seule écriture atomique, afin qu'un plantage pendant la sauvegarde ne puisse plus corrompre ou perdre la progression. Aucun réglage à configurer.]]></fr>
+        <nl><![CDATA[Vereiste bibliotheek voor het Realistic Farming mod-ecosysteem. Bundelt de opslagdata van alle bijbehorende mods in één atomaire schrijfactie, zodat een crash tijdens het opslaan de voortgang niet meer kan beschadigen of verliezen. Geen instellingen om te configureren.]]></nl>
+        <it><![CDATA[Libreria richiesta per l'ecosistema di mod Realistic Farming. Raggruppa i dati di salvataggio di tutti i mod compagni in un'unica scrittura atomica, così un crash durante il salvataggio non può più corrompere o perdere i progressi. Nessuna impostazione da configurare.]]></it>
+        <pl><![CDATA[Wymagana biblioteka dla ekosystemu modów Realistic Farming. Łączy dane zapisu wszystkich modów towarzyszących w jeden atomowy zapis, dzięki czemu awaria podczas zapisywania nie może już uszkodzić ani utracić postępów. Brak ustawień do konfiguracji.]]></pl>
+        <es><![CDATA[Biblioteca requerida para el ecosistema de mods Realistic Farming. Agrupa los datos de guardado de todos los mods compañeros en una única escritura atómica, para que un fallo durante el guardado ya no pueda corromper ni perder el progreso. Sin ajustes que configurar.]]></es>
+        <ea><![CDATA[Biblioteca requerida para el ecosistema de mods Realistic Farming. Agrupa los datos de guardado de todos los mods compañeros en una única escritura atómica, para que un fallo durante el guardado ya no pueda corromper ni perder el progreso. Sin ajustes que configurar.]]></ea>
+        <pt><![CDATA[Biblioteca necessária para o ecossistema de mods Realistic Farming. Reúne os dados de salvamento de todos os mods companheiros em uma única gravação atômica, para que uma falha durante o salvamento não possa mais corromper ou perder o progresso. Sem configurações.]]></pt>
+        <br><![CDATA[Biblioteca necessária para o ecossistema de mods Realistic Farming. Reúne os dados de salvamento de todos os mods companheiros em uma única gravação atômica, para que uma falha durante o salvamento não possa mais corromper ou perder o progresso. Sem configurações.]]></br>
+        <ru><![CDATA[Необходимая библиотека для экосистемы модов Realistic Farming. Объединяет данные сохранения всех сопутствующих модов в одну атомарную запись, чтобы сбой во время сохранения больше не мог повредить или потерять прогресс. Настроек нет.]]></ru>
+        <uk><![CDATA[Необхідна бібліотека для екосистеми модів Realistic Farming. Об'єднує дані збереження всіх супутніх модів в один атомарний запис, щоб збій під час збереження більше не міг пошкодити чи втратити прогрес. Немає налаштувань.]]></uk>
+        <cz><![CDATA[Vyžadovaná knihovna pro ekosystém modů Realistic Farming. Sloučí ukládaná data všech doprovodných modů do jednoho atomického zápisu, takže pád při ukládání už nemůže poškodit ani ztratit postup. Žádná nastavení.]]></cz>
+        <hu><![CDATA[Szükséges könyvtár a Realistic Farming mod-ökoszisztémához. Az összes társmod mentési adatát egyetlen atomi írásba vonja össze, így a mentés közbeni összeomlás többé nem sértheti meg vagy veszítheti el a haladást. Nincs beállítás.]]></hu>
+        <ro><![CDATA[Bibliotecă necesară pentru ecosistemul de moduri Realistic Farming. Grupează datele de salvare ale tuturor modurilor însoțitoare într-o singură scriere atomică, astfel încât o eroare în timpul salvării să nu mai poată corupe sau pierde progresul. Fără setări.]]></ro>
+        <tr><![CDATA[Realistic Farming mod ekosistemi için gerekli kütüphane. Tüm yardımcı modların kayıt verilerini tek bir atomik yazma işleminde birleştirir, böylece kayıt sırasında bir çökme artık ilerlemeyi bozamaz veya kaybedemez. Ayar yok.]]></tr>
+        <fi><![CDATA[Realistic Farming -modiekosysteemin vaatima kirjasto. Kokoaa kaikkien liitännäismodien tallennustiedot yhteen atomiseen kirjoitukseen, joten kaatuminen tallennuksen aikana ei voi enää vahingoittaa tai menettää edistymistä. Ei asetuksia.]]></fi>
+        <no><![CDATA[Nødvendig bibliotek for Realistic Farming-modøkosystemet. Samler lagringsdataene til alle tilhørende moder i én atomisk skriving, slik at et krasj under lagring ikke lenger kan ødelegge eller miste fremgang. Ingen innstillinger.]]></no>
+        <sv><![CDATA[Obligatoriskt bibliotek för Realistic Farming-modekosystemet. Samlar alla följemoddars spardata i en enda atomisk skrivning, så att en krasch under sparandet inte längre kan skada eller förlora framsteg. Inga inställningar.]]></sv>
+        <da><![CDATA[Påkrævet bibliotek til Realistic Farming-mod-økosystemet. Samler alle ledsagermoddernes gemte data i én atomisk skrivning, så et nedbrud under gemning ikke længere kan ødelægge eller miste fremskridt. Ingen indstillinger.]]></da>
+        <kr><![CDATA[Realistic Farming 모드 생태계에 필요한 라이브러리입니다. 모든 동반 모드의 저장 데이터를 하나의 원자적 쓰기로 통합하여 저장 중 충돌이 더 이상 진행 상황을 손상시키거나 잃지 않도록 합니다. 설정 없음.]]></kr>
+        <jp><![CDATA[Realistic Farming モッドエコシステムに必要なライブラリです。すべての関連モッドのセーブデータを1回のアトミック書き込みにまとめ、保存中のクラッシュで進行状況が破損したり失われたりしないようにします。設定はありません。]]></jp>
+        <ct><![CDATA[Realistic Farming 模組生態系所需的函式庫。將所有配套模組的存檔資料合併為單一原子寫入，讓存檔過程中的當機不再會損壞或遺失進度。無需設定。]]></ct>
+        <fc><![CDATA[Realistic Farming 模组生态系统所需的库。将所有配套模组的存档数据合并为单一原子写入，让存档过程中的崩溃不再会损坏或丢失进度。无需设置。]]></fc>
+        <id><![CDATA[Pustaka yang diperlukan untuk ekosistem mod Realistic Farming. Menggabungkan data simpanan semua mod pendamping menjadi satu penulisan atomik, sehingga crash saat menyimpan tidak lagi dapat merusak atau menghilangkan progres. Tanpa pengaturan.]]></id>
+        <vi><![CDATA[Thư viện bắt buộc cho hệ sinh thái mod Realistic Farming. Gộp dữ liệu lưu của mọi mod đồng hành thành một lần ghi nguyên tử, để sự cố khi lưu không còn có thể làm hỏng hoặc mất tiến trình. Không có cài đặt.]]></vi>
+    </description>
+
+    <iconFilename>icon.dds</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="main.lua" />
+    </extraSourceFiles>
+</modDesc>
