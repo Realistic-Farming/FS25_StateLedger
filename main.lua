@@ -50,6 +50,7 @@ local function onMissionSave()
 end
 
 local function onMissionDelete()
+    stateLedger:onMissionDelete()
     getfenv(0)["g_stateLedger"] = nil
     if g_currentMission ~= nil then
         g_currentMission.stateLedger = nil
