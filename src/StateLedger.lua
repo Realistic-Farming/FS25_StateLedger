@@ -146,6 +146,13 @@ function StateLedger:onMissionLoaded()
     self:parseFile()
 end
 
+function StateLedger:onMissionDelete()
+    self.hasParsed     = false
+    self.parsedData    = {}
+    self.deliveredTo   = {}
+    self.loadedVersion = nil
+end
+
 -- =========================================================
 -- Save
 -- =========================================================
