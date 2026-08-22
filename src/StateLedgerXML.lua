@@ -25,7 +25,7 @@
 -- stay distinct. Booleans and strings use their own type tags.
 -- =========================================================
 
-StateLedgerXML = {}
+StateLedgerXML = StateLedgerXML or {}
 
 -- Guard against pathological input. Plain state tables are shallow;
 -- anything past this depth is almost certainly a cycle or a bug.
