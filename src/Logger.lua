@@ -8,7 +8,7 @@
 -- are greppable by the "[StateLedger]" tag.
 -- =========================================================
 
-SLLogger = {}
+SLLogger = SLLogger or {}
 SLLogger.PREFIX = "[StateLedger] "
 SLLogger.debugEnabled = false
 

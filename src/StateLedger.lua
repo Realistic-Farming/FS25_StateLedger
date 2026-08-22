@@ -22,7 +22,7 @@
 --     single master file inside the game save window.
 -- =========================================================
 
-StateLedger = {}
+StateLedger = StateLedger or {}
 local StateLedger_mt = Class(StateLedger)
 
 StateLedger.SAVE_VERSION = 1
