@@ -13,8 +13,13 @@ the repo's git history and README.
 
 ## [Unreleased]
 
+## [1.0.1.0] - 2026-08-26
+
 ### Added
 - Changelog file established (suite ruling 2026-08-22).
+
+### Fixed
+- Saved ledger state no longer carries over incorrectly between separate career sessions (SL-001).
 
 ## [1.0.0.0] - 2026-08-22
 
